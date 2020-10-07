@@ -1,0 +1,48 @@
+body{
+  width: 65%;
+  margin: auto;
+  box-sizing: border-box;
+  background-image: url('../img/sfondo.jpg');
+  background-size: cover;
+}
+
+h2{
+  color: white;
+}
+.circle{
+  border-radius: 100px;
+  color: white;
+  padding: 10px;
+  background-color: orange;
+}
+
+.object{
+  border: 1px solid black;
+  padding: 1px;
+}
+
+.grey{
+  background-color: lightgrey;
+}
+
+.white{
+  background-color: white;
+}
+
+.email_text{
+  color: grey;
+}
+
+.white_text{
+  color: white;
+  text-align: center;
+}
+
+.bold{
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.thin{
+  font-size: 13px;
+}
