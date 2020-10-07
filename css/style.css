@@ -6,6 +6,10 @@ body{
   background-size: cover;
 }
 
+header{
+  margin-top: 20px;
+}
+
 h2{
   color: white;
 }
